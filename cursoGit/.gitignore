@@ -1,0 +1,15 @@
+# Kile LaTeX editor
+.kile/
+*.kilepr
+*.log
+*.synctex.gz
+*.aux
+*.dvi
+*.out
+*.toc
+
+# MS Office files
+*.doc*
+*.ppt*
+*.xls*
+
